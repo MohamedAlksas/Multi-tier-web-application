@@ -34,7 +34,7 @@ It consists of the following components:
 
 1.  **Clone the repository**
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/MohamedAlksas/Multi-tier-web-application.git
     cd Multi-tier-web-application
     ```
 
